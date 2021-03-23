@@ -25,11 +25,11 @@ To do that, I:
 - Created a new startup script in Edit > Project Settings. I provided the Content file as the folder to run the scripts from, and put my script there for now. 
 
 Once all that was done, here's what the generation looked like:
-![](images/gen-from-file.png)
+![](\images\finally-looks-like-maze.PNG)
 I thought it looked really weird - the files supplied should've produced a nice maze. Turns out, I had messed myself up by providing a random Yaw rotation as a placeholder. Once I dealt with that, it looked much better:
 
 
-![](images/finally-looks-like-maze.png)
+![](\images\finally-looks-like-maze.png)
 
 As you can see, it still looks a little unfinished. Mostly, its the fact that all the corridors are only vertical. I do have horizontal walls, but the maze file just doesn't account for that. So I think I'll have to make some modifications to my script to put in different values for places where it should go horizontally or vertically. That'll help me place the correct textures there.
 
