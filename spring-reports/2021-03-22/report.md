@@ -25,7 +25,8 @@ To do that, I:
 - Created a new startup script in Edit > Project Settings. I provided the Content file as the folder to run the scripts from, and put my script there for now. 
 
 Once all that was done, here's what the generation looked like:
-![](\images\finally-looks-like-maze.PNG)
+
+![](\images\gen-from-file.PNG)
 I thought it looked really weird - the files supplied should've produced a nice maze. Turns out, I had messed myself up by providing a random Yaw rotation as a placeholder. Once I dealt with that, it looked much better:
 
 
