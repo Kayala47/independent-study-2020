@@ -6,19 +6,23 @@ You will complete a “Self-SWOT” (see below), and either add it to your lab r
 - good at learning on my own
 - can produce well commented code
 - (maybe) good report writing
+- (pos & enthusiasm)
+- (technical skills)
 
 ## Weaknesses
 - hesitant to ask for help
+- tendency to disappear 
 - self-confidence could use some work (some imposter syndrome creeps up every meeting)
 
 ## Opportunities:
 - P-ai this semester
 - Visa this summer (Machine Learning Research Team)
-
+- think abt other clubs, coursework, etc to add (for my benefit)
 
 ## Threats
 - a little overwhelmed with schoolwork at times: have had some trouble focusing
 - a little scared about implementing next steps: don't know how yet, and I can feel myself trying to put it off. I'll get it soon.
+- practice metacognition (thinking about how you're learning). Think abt how to do school & get better at it instead of having it be a nebulous thing.
 
 ## Goals
 - try to get more involved in the machine learning side of things.
