@@ -26,6 +26,8 @@ I'm going through the python file and taking notes as I understand it. Those not
 
 The intent is to submit a pull request once those have been checked off and add docstrings for each function, both helping me understand it and still accomplishing some work by commenting our code. 
 
+I've submitted the initial pull request, although not all functions are tagged. Most of the ones that need documentation are because I don't fully understand what's going on, so might be good to talk about those.
+
 
 
 ## Issues/Problems
@@ -43,4 +45,5 @@ The intent is to submit a pull request once those have been checked off and add 
 
 
 ## Plans for next week
-
+- Continue working with gait.py
+- Talk about next steps with Prof Clark
