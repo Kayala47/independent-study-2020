@@ -10,7 +10,7 @@
 #### Unreal Setup
 Installation required an account, so I used my personal. I've set it to not require any extra sign-up, but would potentially like to see if we have a lab account so we can link it there directly. I just went ahead and did it with my personal so I wouldn't slow our progress any more. 
 
-I initialized the project with name = "Maze Project". The notes on enabling Plugins were a little confusing but I found that going to Edit > Plugins I could enable individual plugins. I didn't have the plugin for unrealcv made yet so I had to stop and make that.  
+I initialized the project with name = "Maze". The notes on enabling Plugins were a little confusing but I found that going to Edit > Plugins I could enable individual plugins. I didn't have the plugin for unrealcv made yet so I had to stop and make that.  
 - Note:  I got a permission denied error when trying to build using powershell. Worked fine on regular command terminal in Windows
 
 Installation didn't work on 4.27. I remembered that last time we ran into issues because the unrealcv package had to be changed slightly to deal with the correct version. Knowing that 4.26 worked before, I uninstalled Unreal and installed version 4.26.2. 
