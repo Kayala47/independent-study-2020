@@ -24,6 +24,14 @@ Once I figured that out and converted my measurements, I think things are going 
 
 Before, I was just passing in one max_angle. That's not really feasible, since moving forward is a negative angle and backwards is positive. A simple max() call only works for one side of it. I think I'll move to using a max_range and ensuring that the angle is within that range. 
 
+Quick update: I moved to passing in a range of angles and modified leg to once again move all segments. I believe we're hitting the appropriate angles now! Here's what that looks like:
+
+                                                                                                                                                                                                              ### Step 1
+![Step 1](step1.png)
+
+### Step 2
+![Step 2](step2.png)
+
 
 ## Plans for next session
 Once I get the angle restrictions to work, I can work on getting the poses to work. From there, I can work on the leg creation functions and figure out whether I want to read those from a file or something.
