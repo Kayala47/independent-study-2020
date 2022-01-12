@@ -1,0 +1,28 @@
+Forelimb lameness
+- head goes up when lame forelimb goes down
+    - hindlimbs may also appear tucked under (& back is arched)
+- shoulder lameness -> short stride
+
+Hindlimb lameness:
+- weight shifted "cranially" = close to head
+- forlimbs placed further back ("caudally"), head stretched out, 
+    to push center gravity further out
+
+Gaits Table:
+- walk is the only one with 3 planted feet; we should be prepared
+for more gaits that have feet lifted and stepping
+- trot is the only one with true suspension; at odds with the gait file
+i wrote, which also has canter with suspension. need to fix!
+- the gallops are all based on spine flexing, not feet lifting necessarily.
+how do we handle this in our current system? do we even bother with it
+for the moment? we could just move the legs forward without upward movement?
+
+Figure 2
+- back leg has 3 segments, front has 4. should adjust model?
+
+Kinetic gait analysis
+- seems like the 2nd most useful section after the table. range of motion
+is what we've been working on recently, but there's no info on what the correct
+amount is, and it specifically says it varies by breed. Maybe our file will have to
+include info about what the range of motion should be? Unsure if we can represent
+that or if we should just stick to a generic model.
