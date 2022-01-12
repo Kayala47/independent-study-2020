@@ -1,0 +1,4 @@
+Fig 7
+- second peak of knee joint angle represents a small foot movement
+to reduce overall hip movement at the stance phase. small correction
+that allows for a smaller angle at the hip when keeping momentum forward
